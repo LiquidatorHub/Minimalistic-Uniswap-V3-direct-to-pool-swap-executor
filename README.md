@@ -5,6 +5,3 @@
 - 🧪 Can be used in flashloan/arb/liq strategies
 
 
-├── contracts/
-│   └── SwapDirectToPoolV3.sol
-├── README.md
